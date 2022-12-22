@@ -13,7 +13,7 @@ The formula then gets solved with the value associated for each unknowns
 
 - Support most mathematical operator : +, -, *, /, sqrt, log, sin, cos, tan, mod, pow, factorial, abs, floor, ceil
 - Support for constant such as PI
-- Built-in check adn sanitization for inputs
+- Built-in check and sanitization for inputs
 - Built-in Exception error for most errors
 - How-to-use example in main.py
 - Fast : Average of 0.0003s per solve
