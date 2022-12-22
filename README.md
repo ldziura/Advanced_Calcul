@@ -18,6 +18,7 @@ The formula then gets solved with the value associated for each unknowns
 - How-to-use example in main.py
 - Fast : Average of 0.0003s per solve
 - Built-in 2670 tests with edge cases with inputs such as 2^32, 2^64
+- Comment at every step with optional print to understand how the code works
  
 
 
