@@ -1,7 +1,7 @@
 
 # Advanced Calculator
 
-Advanced Calculator is a project made as a part of a larger project.
+Advanced Calculator is a function made as a part of a larger project.
 It allow for user input of any mathematical formula as a string, with any number of unknowns.
 The formula then gets solved with the value associated for each unknowns
 
